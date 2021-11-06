@@ -14,16 +14,7 @@ Description of the hack-we are building a website to have a solution which will 
             <li>passport.js</li>
         </ol>
         <BR>
-
-<h3>Installation steps: A clear sequence of steps to run your hack:</h3><BR>
-    
-    Step1:CLICK on code option. 
-    Step2:Click on download zip.
-    Step3:Extract the zip file in your PC.
-    Step4:Open the downloaded folder with VS code.
-    Step5:Run the program on your browser.
-    
-<BR>
+            
     <h1>Contributors</h1>
     Team name:Rakshak
     <ul>
